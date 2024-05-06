@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">
+Hello World 👋 I'm Kolby Kiernan!
+</h1>
 
-<!--
-**kolbykiernan/kolbykiernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+💻 🚀 Fullstack Software Engineer & SaaS Account Executive
+</h2>
 
-Here are some ideas to get you started:
+<h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/kolby-kiernan/" target="_blank" rel="noopener noreferrer">
+📫 Connect with me on LinkedIn
+</a>
+
+</h4>
+
+#### 💼 Technical skills:
+
+!HTML5
+!JavaScript
+!React
+!Redux
+!React Router
+!Express.js
+!Postgres
+!Sequelize
+!JWT
+!CSS
+!Git
+!Webpack
+!NodeJS
+#### 🔭 Currently learning:
+
+TypeScript
+AWS
+Algorithms and Data Structures
+
+#### 📈 Check out my stats:
+
+<a href="https://github.com/kolbykiernan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbykiernan&layout=compact&theme=vision-friendly-dark&hide=Ruby&card_width=448" />
+</a>
