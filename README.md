@@ -16,24 +16,24 @@ Hello World 👋 I'm Kolby Kiernan!
 
 #### 💼 Technical skills:
 
-!HTML5
-!JavaScript
-!React
-!Redux
-!React Router
-!Express.js
-!Postgres
-!Sequelize
-!JWT
-!CSS
-!Git
-!Webpack
-!NodeJS
+!HTML5  
+!JavaScript  
+!React  
+!Redux  
+!React Router  
+!Express.js  
+!Postgres  
+!Sequelize  
+!JWT  
+!CSS  
+!Git  
+!Webpack  
+!NodeJS  
 #### 🔭 Currently learning:
 
-TypeScript
-AWS
-Algorithms and Data Structures
+TypeScript  
+AWS  
+Algorithms and Data Structures  
 
 #### 📈 Check out my stats:
 
