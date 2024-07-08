@@ -30,7 +30,7 @@ Hello World 👋 I'm Kolby Kiernan!
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=%238DD6F9)
 ![NodeJS](https://img.shields.io/badge/Tools-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=6DA55F)
 
-#### 🔭 Currently learning:
+#### 🔭 Currently expanding on:
 
 - TypeScript  
 - AWS  
