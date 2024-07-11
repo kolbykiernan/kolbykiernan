@@ -3,7 +3,7 @@ Hello World 👋 I'm Kolby Kiernan!
 </h1>
 
 <h2 align="center">
-💻 🚀 Fullstack Software Engineer & SaaS Account Executive
+💻 🚀 Fullstack Software Engineer with Emphasis on Front End Development
 </h2>
 
 <h4>
