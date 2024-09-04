@@ -39,5 +39,6 @@ Hello World 👋 I'm Kolby Kiernan!
 #### 📈 Check out my stats:
 
 <a href="https://github.com/kolbykiernan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbykiernan&layout=compact&theme=vision-friendly-dark&hide=Ruby&card_width=448" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbykiernan&layout=compact&theme=vision-friendly-dark&card_width=448" />
 </a>
+
