@@ -3,7 +3,7 @@ Hello World 👋 I'm Kolby Kiernan!
 </h1>
 
 <h2 align="center">
-💻 🚀 Fullstack Software Engineer with Emphasis on Front End Development
+💻 🚀 Fullstack Software Engineer working at Healthie.
 </h2>
 
 <h4>
