@@ -8,7 +8,7 @@ Hello World 👋 I'm Kolby Kiernan!
 
 <h4>
 
-<a href="https://www.linkedin.com/in/kolby-kiernan/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/kolbykiernan/" target="_blank" rel="noopener noreferrer">
 📫 Connect with me on LinkedIn
 </a>
 
